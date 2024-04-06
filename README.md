@@ -5,7 +5,7 @@
 -投稿ボタンを押すと写真がアップされてコメントが入れられ、削除もできる
 
 ## ③DEMO
-https://maru.tobehappy.net/insta/index.php
+https://maru.tobehappy.net/imageposting/html/index.php
 
 ## ④工夫した点・こだわった点
 -写真がアップ・削除ができる
